@@ -68,7 +68,7 @@
   right: 0;
   height: 608px;
   width: 765px;
-  display:block;
+  display: block;
   z-index: 1;
 }
 
@@ -135,7 +135,7 @@
 
 
 .digits {
-  margin:100px 0;
+  margin: 100px 0;
   display: block;
 }
 
@@ -242,8 +242,8 @@
 
 
 .kaufman {
-  background-color:  #1f1f1f;
-  padding:90px 0;
+  background-color: #1f1f1f;
+  padding: 90px 0;
   display: block;
   position: relative;
   overflow: hidden;
@@ -323,7 +323,7 @@
 
 
 .footer {
-  background-color:  #1f1f1f;
+  background-color: #1f1f1f;
   display: flex;
 }
 
@@ -379,7 +379,7 @@
 .footer__column-links {
   padding-left: 0;
   list-style: none;
-  margin:20px 0 16px;
+  margin: 20px 0 16px;
 }
 
 .footer__social-icon {
