@@ -9,6 +9,9 @@
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
+/* Header */
+
+
 .logo_place_header {
   height: 32px;
   width: 228px;
@@ -41,7 +44,6 @@
   justify-content: flex-start;
   margin: 64px;
   z-index: 2;
-
 }
 
 .header__subtitle {
@@ -80,6 +82,9 @@
   background-color: #2f80ed;
   z-index: 0;
 }
+
+/* Dwscription */
+
 
 .description {
   margin: 0;
@@ -125,6 +130,9 @@
   font-weight: 600;
   line-height: 34px;
 }
+
+/* Digits */
+
 
 .digits {
   margin:100px 0;
@@ -180,6 +188,10 @@
   line-height: 1.2;
   margin: 20px 0 0 0;
 }
+
+/* Feynman */
+
+
 .feynman {
   min-height: 756px;
   background-color: #f2f2f2;
@@ -225,6 +237,9 @@
   width: 867px;
   display: block;
 }
+
+/* Kaufman */
+
 
 .kaufman {
   background-color:  #1f1f1f;
@@ -304,6 +319,9 @@
   z-index: 0;
 }
 
+/* Footer */
+
+
 .footer {
   background-color:  #1f1f1f;
   display: flex;
@@ -322,7 +340,7 @@
   justify-content: space-between;
   flex-basis: 711px;
   margin: 0;
-  
+
 }
 
 .footer__column_content_info {
@@ -336,9 +354,9 @@
 }
 
 .logo_place_footer {
-    height: 32px;
-    width: 228px;
-    background-size: contain;
+  height: 32px;
+  width: 228px;
+  background-size: contain;
 }
 
 .footer__author {
@@ -359,6 +377,7 @@
 }
 
 .footer__column-links {
+  padding-left: 0;
   list-style: none;
   margin:20px 0 16px;
 }
@@ -370,7 +389,7 @@
 }
 
 .footer__column-link {
-    color: white;
+  color: white;
   font-size: 18px;
   font-weight: normal;
   line-height: 30px;
